@@ -6,7 +6,8 @@
     "tailwind:watch": "tailwindcss -i src/unfold/styles.css -o src/unfold/static/unfold/css/styles.css --watch --minify"
   },
   "dependencies": {
-    "tailwindcss": "^3.4.0"
+    "tailwindcss": "^3.4.0",
+    "tailwindcss-rtl": "^0.9.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10"
